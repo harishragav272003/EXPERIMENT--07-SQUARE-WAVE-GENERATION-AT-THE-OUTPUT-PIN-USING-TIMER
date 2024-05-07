@@ -1,4 +1,4 @@
-# EXPERIMENT--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -91,12 +91,12 @@ Step14. click on debug and simulate using simulation as shown below
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/b8efbfc2-f0c5-4106-8117-3a6e7ac87f6c)
 
 
- ### DEVELOPED BY : HARISH RAGAV S
- ### REGISTER NO : 212222110013
+ 
 
+  
 
 ## STM 32 CUBE PROGRAM :
-``` C
+```python
 #include "main.h"
 
 /* Private includes ----------------------------------------------------------*/
@@ -389,3 +389,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
+
+
+
+
